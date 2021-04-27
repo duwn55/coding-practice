@@ -230,4 +230,4 @@ Thumbs.db
 # End of https://www.toptal.com/developers/gitignore/api/python,c,java
 
 #image
-.gif
+*.gif
